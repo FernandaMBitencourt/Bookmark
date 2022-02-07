@@ -12,7 +12,7 @@
 
 > Project developed with JavaScript technology using React. 
 
-### ✨ [Page of Links ](https://localhost300.app/)
+### ✨ [Page of Links ](https://github.com/FernandaMBitencourt/List-of-Links#-page-of-links-)
 
 ## Pre-requisites
 
@@ -77,7 +77,7 @@ Results Page
   3. Action button to return to the overview page.
 
 
-## Resolutions Limitations
+## Resolutions and Limitations
  
    Form:
    I developed two easy-to-view pages where the user enters a link in a form and sends it to their registration list.
