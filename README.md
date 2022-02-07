@@ -10,7 +10,7 @@
   </a>
 </p>
 
-> Project developed with JavaScript technology using React. 
+> Project developed with JavaScript technology using React.js. 
 
 ### ✨ [Page of Links ](https://github.com/FernandaMBitencourt/List-of-Links#-page-of-links-)
 
