@@ -1,0 +1,83 @@
+.form{
+    display: flex;
+    justify-content: center;
+}
+
+table.table-overview {
+    width: 100%;
+    margin-top: 10px;
+}
+
+table.table-overview thead th {
+    padding: 3px 10px;
+    border: 1px solid #aaa;
+}
+
+table.table-overview tbody td {
+    padding: 3px 10px;
+    border: 1px solid #aaa;
+}
+
+table.table-overview tbody td:nth-child(2), 
+table.table-overview tbody td:nth-child(3),
+table.table-overview thead th:nth-child(2),
+table.table-overview thead th:nth-child(3) {
+    border-left: none;
+}
+
+table.dataTable.no-footer {
+    border-bottom: none;
+}
+
+div.dataTables_length {
+    margin-bottom: 1em;
+}
+
+.dataTables_length select {
+    outline: none !important;
+}
+
+div.dataTables_paginate {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.paginate_button {
+    padding: 0.2em 0.7em !important;
+}
+
+.dataTables_filter {
+    margin-bottom: 1em;
+}
+
+.dataTables_filter input {
+    outline: none;
+}
+  
+.btn-success{
+    margin-left: 10px;
+}
+  
+.btn-warning {
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+.edit-btn,
+.delete-btn {
+    background: transparent;
+    border-color: transparent;
+    cursor: pointer;
+    font-size: 1.0rem;
+    margin: 0 0.10rem;
+    transition: all 0.3s linear;
+
+}
+
+.delete-btn{
+    color: red;
+}
+
+.edit-btn {
+    color: lightgreen;
+}

@@ -1,0 +1,42 @@
+.thanks-description {
+    margin: 3rem 0 3rem 0;
+    text-align: center;
+    color: #0d6efd;
+}
+
+table.table-result {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 3rem;
+}
+
+table.table-result thead th {
+    padding: 3px 10px;
+    border: 1px solid #aaa;
+}
+
+table.table-result tbody th {
+    padding: 3px 10px;
+    border: 1px solid #aaa;
+}
+
+table.table-result tbody th a {
+    font-weight: normal !important;
+}
+
+.back-overview-page {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.back-overview-page a {
+    padding: 8px;
+    border-radius: 5px;
+    text-decoration: none;
+    background: #0d6efd;    
+    color: #fff;
+}
+
+.back-overview-page a:hover {
+    background-color: #0d6efda6;
+}
