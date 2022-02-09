@@ -36,7 +36,7 @@ export class Result extends Component {
                                     return (
                                         <tr key={id}>
                                             <th>
-                                                <a href={title} target="_blank"> {title} </a>
+                                                <a href={title} rel="noreferrer" target="_blank"> {title} </a>
                                             </th>
                                         </tr>
                                     );
