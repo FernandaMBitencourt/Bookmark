@@ -35,7 +35,7 @@ export class Tbl extends Component {
                     {
                         targets: [0],
                         className: "center",
-                        createdCell: (td, cellData, rowData) => ReactDOM.render(<a href={rowData.title} target="_blank"> {rowData.title} </a>, td)
+                        createdCell: (td, cellData, rowData) => ReactDOM.render(<a href={rowData.title} rel="noreferrer" target="_blank"> {rowData.title} </a>, td)
                     },
                     {
                         targets: [1],
