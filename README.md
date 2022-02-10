@@ -12,7 +12,7 @@
 
 > Project developed with JavaScript technology using React.js. 
 
-### ✨ [Page of Links ] (https://list-of-link.vercel.app/)
+### ✨ [Page of Links ](https://list-of-link.vercel.app/)
 
 ## Pre-requisites
 
