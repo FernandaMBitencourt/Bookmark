@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome to App Links Page 👋</h1>
+<h1 align="center">Welcome to Bookmark app 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/npm-6.14.6-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/edvaldotorres/legends-flix#readme" target="_blank">
